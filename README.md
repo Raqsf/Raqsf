@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/Raqsf/Raqsf">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raqsf&theme=dark&langs_count=4" />
+<img align="center" src="https://github-readme-stats-pi-gray-78.vercel.app/api/top-langs/?username=Raqsf&theme=dark" alt="Raquel's GitHub Top Languages" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Raqsf/Raqsf">
